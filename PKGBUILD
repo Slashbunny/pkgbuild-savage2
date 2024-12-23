@@ -12,7 +12,7 @@ license=('custom: "Savage 2"')
 depends=('mesa' 'libxml2' 'glu' 'ncurses5-compat-libs')
 makedepends=('unzip')
 install=savage2.install
-source=("https://savage2.net/downloads/Savage2-${pkgver}-linux-x64-installer.run" \
+source=("https://masterserver1.talesofnewerth.com/downloads/Savage2-${pkgver}-linux-x64-installer.run" \
 'savage2.launcher' 'savage2.desktop' 's2editor.desktop' 's2mviewer.desktop' 'savage2.sh')
 sha512sums=('9a568b5886ac0c86cd5132ab04d35ed8715f029a00a072eed5916e75153fcd0fe6b25b75995f44aa0585569358442f1a592f6637dff6280d5519e8a7b354f8f7'
             '5beba717e612dba323bacedb73f2cddd3844f51fc5d1f93f490b3d8e1597e6f3f9e1606e22a6e2dc9d3555cbc85c09cc762f9a2a4036e9f9f245e11c937f5453'
